@@ -5,7 +5,7 @@
 
 body {
 background: url('https://iili.io/KmHRVrF.png') no-repeat center center fixed;
-color: #FFFFFF !important;
+color: none !important;
 background-size: cover;
 font-family: 'Mystery Quest' static;
 }
