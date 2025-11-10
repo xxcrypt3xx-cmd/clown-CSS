@@ -1,0 +1,420 @@
+/* This CSS is a free tamplate by Blub-Blub (#519615). Please DO NOT remove any credentials, or the breadcrumb credit. You are not allowed to use this template to sell comms, though you are allowed to change anything to mathc your style more. This still doesn't mean you can remove any credits. I am fully able to remove my free CSSs, I hope I do not have to. */
+
+/* Font import */
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400;700&family=Bitcount+Grid+Single:wght@100..900&family=Mystery+Quest&display=swap');
+
+body {
+background: url('https://iili.io/KmHRVrF.png') no-repeat center center fixed;
+color: #FFFFFF !important;
+background-size: cover;
+font-family: 'Mystery Quest' static;
+}
+
+.col-md-9.col-xs-12 {
+background: none !important;
+border: 4px double #1D1254 !important;
+border-top: none !important;
+border-right: none !important;
+border-bottom: none !important;
+}
+
+div.conntainer.main {
+background: rgba(53, 60, 52, 0.5) !important;
+border: 4px double #1D1254 !important;
+border-radius: 15px !important;
+}
+
+.navbar {
+background: #353c34 !important;
+border: 1px solid #1D1254 !important;
+border-radius: 15px !important;
+border-bottom: none !important;
+border-top: none !important;
+border-right: none !important;
+box-shadow: none !important;
+font-family: 'Mystery Quest' static;
+}
+
+.navbar li a {
+color: #f60466 !important;
+}
+
+.navbar li a:hover {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 0 0 10px #f60466, 0 0 20px #f60466, 0 0 40px #f60466; !important;
+text-shadow: 0 0 5px #f60466, 0 0 10px #f60466, 0 0 20px #f60466; !important;
+transition: 0.8s !important;
+}
+
+/* lioden logo replacement */
+.navbar-header > a > img {
+content: url('URLGoesHere'); !important;
+width: 150-200px;
+}
+
+.breadcrumb {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+border-radius: 15px !important;
+}
+
+.breadcrumb::after {
+content: "CSS by Blub-Blub (#519615)";
+position: absolute;
+right: 20%;
+z-index: 100;
+color: #f60466;
+}
+
+.feature {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+border-radius: 15px !important;
+}
+
+.cave-grid {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+border-radius: 15px !important;
+}
+
+.cave-grid:hover {
+text-shadow: 0 0 5px #f60466, 0 0 10px #f60466, 0 0 20px #f60466; !important;
+transition: 0.8s !important;
+}
+
+div.cave-grid>img {
+content: url('https://iili.io/KmG6wZX.jpg') !important;
+}
+
+.mound-grid{
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+border-radius: 15px !important;
+}
+
+.mound-grid:hover {
+text-shadow: 0 0 5px #f60466, 0 0 10px #f60466, 0 0 20px #f60466; !important;
+transition: 0.8s !important;
+}
+
+div.mound-grid>img {
+content: url('https://iili.io/KmGQQYG.jpg') !important;
+width: 181.875px;
+height: 120px;
+}
+
+.col-xs-10 {
+background: rgba(53, 60, 52, 0.5) !important;
+border: 1px solid #1D1254 !important;
+}
+
+.col-xs-2 {
+background: rgba(53, 60, 52, 0.5) !important;
+border: 1px solid #1D1254 !important;
+}
+
+.topbar {
+background: #353c34 !important;
+color: #f60466 !important;
+border-top: none !important;
+border-bottom: 1px solid #1D1254 !important;
+}
+
+.side-bar {
+background: none !important;
+color: #f60466 !important;
+border: none !important;
+}
+
+.panel {
+background: #353c34 !important;
+border: 1px solid #1D1254 !important;
+border-radius: 15px !important;
+box-shadow: none !important;
+}
+
+.s-chat-message:nth-child(even) {
+background: #24c38b !important;
+color: #000000 !important;
+border: 1px dashed: #1D1254 !important;
+}
+
+.s-chat-messsage:nth-child(odd) {
+background: #f60466 !important;
+color: #000000 !important;
+border: 1px dashed: #353c34 !important;
+}
+
+.s-chat-message_timestamp { 
+color: #000000 !important;
+}
+
+#chatMessageContainer {
+color: #000000 !important;
+border: none !important;
+}
+
+button#label_currentChannel {
+background: none !important;
+color: #f60466 !important;
+border: none !important;
+}
+
+.s-chat-message_content {
+background: none !important;
+color: #f60466 !important;
+border: none !important;
+}
+
+div#chatMessagePinned {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+}
+
+h1 {
+texxt-align: center !important;
+color: #f60466 !important;
+font-family: 'Mystery Quest' static;
+}
+
+h3 {
+texxt-align: center !important;
+color: #f60466 !important;
+font-family: 'Mystery Quest' static;
+}
+
+.top {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+font-family: 'Mystery Quest' static;
+}
+
+th {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+font-family: 'Mystery Quest' static;
+}
+
+.bottom {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+font-family: 'Mystery Quest' static;
+}
+
+.left {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+font-family: 'Mystery Quest' static;
+}
+
+td {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+font-family: 'Mystery Quest' static;
+}
+
+.right_cub {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+font-family: 'Mystery Quest' static;
+}
+
+a:link {
+color: #d2ecfd !important;
+}
+
+a:visited: {
+color: #d2ecfd !important;
+}
+
+a:hover {
+color: #d2ecfd !important;
+transition: 0.8s !important;
+}
+
+.topbar a:link {
+color: #d2ecfd !important;
+}
+
+.alert-danger {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+}
+
+.alert-success {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+}
+
+.attack-won {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+}
+
+.attack-lost {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+}
+
+input[type="button"] {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="text"] {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="password"] {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+textarea {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+select {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="button"]:hover {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="text"]:focus {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="password"]:focus {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+textarea:focus {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+select:focus {
+background: #353c34 !important;
+color: #f60466 !important;
+border: 1px solid #1D1254 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+.progress {
+background: #1d1254 !important;
+border: 1px solid #1D1254 !important;
+border-radius: 15px !important;
+}
+
+.progress div {
+color: #0000000 !important;
+}
+
+.progress-bar {
+background: #f60466 !important;
+}
+
+.progress-bar-warning {
+background: #f60466 !important;
+}
+
+.progress-bar-danger {
+background: #f60466 !important;
+}
+
+.progress-bar-success {
+background: #f60466 !important;
+}
+
+/* SB Icon */
+img[src$="silver.png"] {
+content: url('urlgoeshere') !important;
+width: 20px !important;
+}
+
+/* GB Icon */
+img[src$="silver.png"] {
+content: url('urlgoeshere') !important;
+width: 20px !important;
+}
+
+#commentBox {
+border: 1px solid #1D1254 !important;
+border-radius: 15px !important;
+background: #353c34 !important;
+color: #d2ecfd !important;
+box-shadow: none !important;
+}
