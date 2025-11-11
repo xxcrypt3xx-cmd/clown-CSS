@@ -50,7 +50,7 @@ transition: 0.8s !important;
 /* lioden logo replacement */
 .navbar-header > a > img {
 content: url('https://iili.io/KmkvDJe.png'); !important;
-width: 150-200px;
+width: 200px;
 }
 
 .breadcrumb {
@@ -89,6 +89,8 @@ transition: 0.8s !important;
 
 div.cave-grid>img {
 content: url('https://iili.io/KmG6wZX.jpg') !important;
+width: 181.875px;
+height: 120px;
 }
 
 .mound-grid{
