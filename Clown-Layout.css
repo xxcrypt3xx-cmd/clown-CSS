@@ -7,43 +7,43 @@ body {
 background: url('https://iili.io/KmHRVrF.png') no-repeat center center fixed;
 color: none !important;
 background-size: cover;
-font-family: 'Mystery Quest' static;
+font-family: 'Mystery Quest';
 }
 
 .col-md-9.col-xs-12 {
 background: none !important;
-border: 4px double #1D1254 !important;
+border: 4px double #24c38b !important;
 border-top: none !important;
 border-right: none !important;
 border-bottom: none !important;
 }
 
-div.conntainer.main {
-background: rgba(0, 0, 0, 0.5) !important;
-border: 4px double #1D1254 !important;
+div.container.main {
+background: rgba(29, 18, 84, 0.5) !important;
+border: 4px double #24c38b !important;
 border-radius: 15px !important;
 }
 
 .navbar {
-background: #353c34 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+border: 1px solid #24C38B !important;
 border-radius: 15px !important;
 border-bottom: none !important;
 border-top: none !important;
 border-right: none !important;
 box-shadow: none !important;
-font-family: 'Mystery Quest' static;
+font-family: 'Mystery Quest';
 }
 
 .navbar li a {
-color: #f60466 !important;
+color: #C780C2 !important;
 }
 
 .navbar li a:hover {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 0 0 10px #f60466, 0 0 20px #f60466, 0 0 40px #f60466; !important;
-text-shadow: 0 0 5px #f60466, 0 0 10px #f60466, 0 0 20px #f60466; !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 0 0 10px #C780C2, 0 0 20px #C780C2, 0 0 40px #C780C2; !important;
+text-shadow: 0 0 5px #C780C2, 0 0 10px #C780C2, 0 0 20px #C780C2; !important;
 transition: 0.8s !important;
 }
 
@@ -54,9 +54,9 @@ width: 150-200px;
 }
 
 .breadcrumb {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 border-radius: 15px !important;
 }
 
@@ -65,25 +65,25 @@ content: "CSS by Blub-Blub (#519615)";
 position: absolute;
 right: 20%;
 z-index: 100;
-color: #f60466;
+color: #C780C2;
 }
 
 .feature {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 border-radius: 15px !important;
 }
 
 .cave-grid {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 border-radius: 15px !important;
 }
 
 .cave-grid:hover {
-text-shadow: 0 0 5px #f60466, 0 0 10px #f60466, 0 0 20px #f60466; !important;
+text-shadow: 0 0 5px #C780C2, 0 0 10px #C780C2, 0 0 20px #C780C2; !important;
 transition: 0.8s !important;
 }
 
@@ -92,14 +92,14 @@ content: url('https://iili.io/KmG6wZX.jpg') !important;
 }
 
 .mound-grid{
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 border-radius: 15px !important;
 }
 
 .mound-grid:hover {
-text-shadow: 0 0 5px #f60466, 0 0 10px #f60466, 0 0 20px #f60466; !important;
+text-shadow: 0 0 5px #C780C2, 0 0 10px #C780C2, 0 0 20px #C780C2; !important;
 transition: 0.8s !important;
 }
 
@@ -115,40 +115,40 @@ border: 1px solid #1D1254 !important;
 }
 
 .col-xs-2 {
-background: rgba(53, 60, 52, 0.5) !important;
-border: 1px solid #1D1254 !important;
+background: rgba(29, 18, 84, 0.5) !important;
+border: 1px solid #24C38B !important;
 }
 
 .topbar {
-background: #353c34 !important;
-color: #f60466 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
 border-top: none !important;
-border-bottom: 1px solid #1D1254 !important;
+border-bottom: 1px solid #24C38B !important;
 }
 
 .side-bar {
 background: none !important;
-color: #f60466 !important;
+color: #C780C2 !important;
 border: none !important;
 }
 
 .panel {
-background: #353c34 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+border: 1px solid #24C38B !important;
 border-radius: 15px !important;
 box-shadow: none !important;
 }
 
 .s-chat-message:nth-child(even) {
-background: #24c38b !important;
+background: #54708C !important;
 color: #000000 !important;
-border: 1px dashed: #1D1254 !important;
+border: 1px dashed: #24C38B !important;
 }
 
 .s-chat-messsage:nth-child(odd) {
-background: #f60466 !important;
+background: #F60466 !important;
 color: #000000 !important;
-border: 1px dashed: #353c34 !important;
+border: 1px dashed: #24C38B !important;
 }
 
 .s-chat-message_timestamp { 
@@ -162,212 +162,212 @@ border: none !important;
 
 button#label_currentChannel {
 background: none !important;
-color: #f60466 !important;
+color: #C780C2 !important;
 border: none !important;
 }
 
 .s-chat-message_content {
 background: none !important;
-color: #f60466 !important;
+color: #C780C2 !important;
 border: none !important;
 }
 
 div#chatMessagePinned {
-background: #353c34 !important;
-color: #f60466 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
 border: 1px solid #1D1254 !important;
 }
 
 h1 {
 texxt-align: center !important;
-color: #f60466 !important;
-font-family: 'Mystery Quest' static;
+color: #C780C2 !important;
+font-family: 'Mystery Quest';
 }
 
 h3 {
 texxt-align: center !important;
-color: #f60466 !important;
-font-family: 'Mystery Quest' static;
+color: #C780C2 !important;
+font-family: 'Mystery Quest';
 }
 
 .top {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
-font-family: 'Mystery Quest' static;
+font-family: 'Mystery Quest';
 }
 
 th {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
-font-family: 'Mystery Quest' static;
+font-family: 'Mystery Quest';
 }
 
 .bottom {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
-font-family: 'Mystery Quest' static;
+font-family: 'Mystery Quest';
 }
 
 .left {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
-font-family: 'Mystery Quest' static;
+font-family: 'Mystery Quest';
 }
 
 td {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
-font-family: 'Mystery Quest' static;
+font-family: 'Mystery Quest';
 }
 
 .right_cub {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
-font-family: 'Mystery Quest' static;
+font-family: 'Mystery Quest';
 }
 
 a:link {
-color: #d2ecfd !important;
+color: #F60466 !important;
 }
 
 a:visited: {
-color: #d2ecfd !important;
+color: #F60466 !important;
 }
 
 a:hover {
-color: #d2ecfd !important;
+color: #F60466 !important;
 transition: 0.8s !important;
 }
 
 .topbar a:link {
-color: #d2ecfd !important;
+color: #F60466 !important;
 }
 
 .alert-danger {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
 }
 
 .alert-success {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
 }
 
 .attack-won {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
 }
 
 .attack-lost {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
 }
 
 input[type="button"] {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
 text-shadow: none !important;
 box-shadow: none !important;
 }
 
 input[type="text"] {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
 text-shadow: none !important;
 box-shadow: none !important;
 }
 
 input[type="password"] {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
 text-shadow: none !important;
 box-shadow: none !important;
 }
 
 textarea {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
 text-shadow: none !important;
 box-shadow: none !important;
 }
 
 select {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
 text-shadow: none !important;
 box-shadow: none !important;
 }
 
 input[type="button"]:hover {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
 text-shadow: none !important;
 box-shadow: none !important;
 }
 
 input[type="text"]:focus {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
 text-shadow: none !important;
 box-shadow: none !important;
 }
 
 input[type="password"]:focus {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
 text-shadow: none !important;
 box-shadow: none !important;
 }
 
 textarea:focus {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
 text-shadow: none !important;
 box-shadow: none !important;
 }
 
 select:focus {
-background: #353c34 !important;
-color: #f60466 !important;
-border: 1px solid #1D1254 !important;
+background: #1D1254 !important;
+color: #C780C2 !important;
+border: 1px solid #24C38B !important;
 text-align: center !important;
 text-shadow: none !important;
 box-shadow: none !important;
