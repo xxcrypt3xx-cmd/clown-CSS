@@ -50,7 +50,7 @@ transition: 0.8s !important;
 /* lioden logo replacement */
 .navbar-header > a > img {
 content: url('https://iili.io/KmrruFs.png'); !important;
-width: 200px;
+width: 100px;
 }
 
 .breadcrumb {
@@ -112,8 +112,8 @@ height: 120px;
 }
 
 .col-xs-10 {
-background: rgba(53, 60, 52, 0.5) !important;
-border: 1px solid #1D1254 !important;
+background: rgba(29, 18, 84, 0.5) !important;
+border: 1px solid #24C38B !important;
 }
 
 .col-xs-2 {
@@ -164,7 +164,7 @@ border: none !important;
 
 button#label_currentChannel {
 background: none !important;
-color: #C780C2 !important;
+color: #FFFFFF !important;
 border: none !important;
 }
 
