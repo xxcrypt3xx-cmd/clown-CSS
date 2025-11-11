@@ -49,7 +49,7 @@ transition: 0.8s !important;
 
 /* lioden logo replacement */
 .navbar-header > a > img {
-content: url('URLGoesHere'); !important;
+content: url('https://iili.io/KmkvDJe.png'); !important;
 width: 150-200px;
 }
 
@@ -401,13 +401,13 @@ background: #f60466 !important;
 
 /* SB Icon */
 img[src$="silver.png"] {
-content: url('urlgoeshere') !important;
+content: url('https://iili.io/KmkvNiN.png') !important;
 width: 20px !important;
 }
 
 /* GB Icon */
-img[src$="silver.png"] {
-content: url('urlgoeshere') !important;
+img[src$="gold.png"] {
+content: url('https://iili.io/KmkvQ07.png') !important;
 width: 20px !important;
 }
 
